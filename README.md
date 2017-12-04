@@ -1,0 +1,2 @@
+# Work Log with a Database
+A command line application that allows employees (of some company) to enter their name, time worked, task worked on, and general notes about the task into a database ([Peewee ORM](https://github.com/coleifer/peewee)). The program includes the ability to add new entries, list all entries for a particular employee, and list all entries that match a date or search term. Prints a report of this information to the screen, including the date, title of task, time spent, employee, and general notes.
